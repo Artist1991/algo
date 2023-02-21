@@ -1,0 +1,11 @@
+ALGORITHM types
+VAR
+   viens,voir : INTEGER;
+   sum : INTEGER:=".";
+BEGIN
+   Read(viens)
+   Read(voir)
+   sum := viens + voir;
+   Write(sum)
+END
+
